@@ -1,13 +1,14 @@
-local colorscheme = require("lazyvim.plugins.colorscheme")
 return {
   { "nyoom-engineering/oxocarbon.nvim" },
+  { "rebelot/kanagawa.nvim" },
 
   -- config to load oxocarbon
   {
     "LazyVim/LazyVim",
     opts = {
       --colorscheme = "oxocarbon",
-      colorscheme = "tokyonight",
+      colorscheme = "kanagawa",
+      lazy = true,
     },
   },
 }

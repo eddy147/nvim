@@ -4,7 +4,6 @@ return {
     opts = {
       ensure_installed = {
         "bash",
-        "elixir",
         "heex",
         "eex",
         "html",

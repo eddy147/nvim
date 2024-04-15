@@ -1,5 +1,0 @@
-return {
-  {
-    "jfpedroza/neotest-elixir",
-  },
-}

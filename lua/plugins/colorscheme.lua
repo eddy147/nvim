@@ -1,13 +1,15 @@
 return {
   { "nyoom-engineering/oxocarbon.nvim" },
   { "rebelot/kanagawa.nvim" },
+  { "EdenEast/nightfox.nvim" },
 
-  -- config to load oxocarbon
+  -- config to load the colorscheme you like
   {
     "LazyVim/LazyVim",
     opts = {
       --colorscheme = "oxocarbon",
-      colorscheme = "kanagawa",
+      --      colorscheme = "kanagoawa",
+      colorscheme = "dayfox",
       lazy = true,
     },
   },

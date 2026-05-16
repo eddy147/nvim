@@ -1,11 +1,15 @@
 # nvim-lite
-A minimal neovim configuration.
+iA minimal neovim configuration for Elixir development
 
 Requires NeoVim 0.12 or later
 
-Copy and enjoy it with:
 ```bash
-mkdir -p ~/.config/nvim && curl -fsSL https://raw.githubusercontent.com/radleylewis/nvim-lite/master/init.lua -o ~/.config/nvim/init.lua
+```bash`
+mkdir -p ~/.config/nvim iand clone this repo
+
+## Got original content from:
+
+radleylewis/nvim-lite
 ```
 
 ## Dependencies
